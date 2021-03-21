@@ -1,17 +1,2 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE relacion SYSTEM "act3.dtd">
-
-<relacion>
-<persona carnet="idrafa" sexo="hombre">
-<nombre>Rafa campos</nombre>
-<email>rafadelcampo@gmail.com</email>
-<parentesco hermano-a="idlaura"/>
-</persona>
-
-<persona carnet="idlaura" sexo="mujer">
-<nombre>Laura campos</nombre>
-<email>lauradelcampo@gmail.com</email>
-<parentesco hermano-a="idrafa"/>
-</persona>
-
-</relacion>
+<xs:element name="puertaCerrada" type="xs:boolean" default="false"/>
+<xs:element name="ventanaAbierta" type="xs:boolean" fixed="true"/>

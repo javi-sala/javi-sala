@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<personas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:noNamespaceSchemaLocation="./pruebaxsd.xsd">
+    <persona>
+        <nombre> Pepe</nombre>
+        <edad> 12</edad>
+        <pais>España</pais>
+        <telefono> 623456568 </telefono>
+    </persona>  
+
+    <persona>
+        <nombre> Rafa</nombre>
+        <edad> 20</edad>
+        <pais>España</pais>
+        <telefono> 723376568 </telefono>
+    </persona>  
+</personas>

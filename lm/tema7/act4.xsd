@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="personas">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="persona" maxOccurs="unbounded"></xs:element>
+            </xs:sequence>    
+            <xs:attribute name="fecha-de-nacimiento" type="xs:date"/>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:complexType name="datosDePersona">
+        <xs:sequence>
+            <xs:group ref="datos"/>
+            <xs:element name="descripción" type="xs:string"></xs:element>
+    </xs:sequence>        
+    </xs:complexType>
+
+<xs:group name="datos">
+    <xs:sequence>
+        <xs:element name="nombre" type="xs:string"></xs:element>
+        <xs:element name="apellidos" type="xs:string"></xs:element>
+        <xs:element name="dni" type="xs:string"></xs:element>
+    </xs:sequence>
+    
+</xs:group>
+</xs:schema>

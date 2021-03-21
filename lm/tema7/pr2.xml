@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persona xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="pr2.xsd">
+<nombre>Mercedes</nombre>
+<ciudad>Córdoba</ciudad>
+<fecha_nacimiento>01-01-2001</fecha_nacimiento>
+</persona>

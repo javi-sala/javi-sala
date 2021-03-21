@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<personas xmlns:xs="http://www.w3.org/2001/XMLSchema-instance"
+xs:noNamespaceSchemaLocation="act4.xsd">
+    <persona>
+        <nombre>Pepe</nombre>
+        <apellidos> Muñoz domingo</apellidos>
+        <dni>34765997R</dni>
+        <descripción>Pesado</descripción>
+    </persona>
+</personas>

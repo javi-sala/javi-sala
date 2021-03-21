@@ -1,18 +1,12 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE agenda SYSTEM "act2.dtd">
-
-<agenda>
-
-  <persona id="manolo">
-    <nombre>Manolito sans</nombre>
-    <tlf>957344589</tlf>
-    <tw>@manolito</tw>  
-  </persona>
-
-  <persona id="eva">
-    <nombre>Eva Risto</nombre>
-    <tlf>957344556</tlf>
-    <tw>@evaristo</tw>  
-  </persona>
-
-</agenda>
+<?xml version="1.0" encoding="UTF-8"?>
+<fichas xmlns:xs="http://www.w3.org/2001/XMLSchema-instance"
+xs:noNamespaceSchemaLocation="act2.xsd">
+    <ficha numero="1">
+        <nombre>Ana Sanz Tin</nombre>
+        <edad>22</edad>
+    </ficha>
+    <ficha numero="2">
+        <nombre>Iker Rubio Mol</nombre>
+        <edad>23</edad>
+    </ficha>
+</fichas>
