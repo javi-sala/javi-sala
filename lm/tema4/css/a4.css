@@ -24,11 +24,11 @@
 }
 
 #fondo {
-	background-image: url("../../img/fondo.jpg");
+	background-image: url("../img/fondo.jpg");
 }
 
 #fondo1 {
-  background-image: url("../../img/fondo1.jpg");
+  background-image: url("../img/fondo1.jpg");
   font-size: 2vw;
   padding: 10vw;
   margin: 5vw;
@@ -36,7 +36,7 @@
 }
 
 #fondo2 {
-  background-image: url("../../img/fondo1.jpg");
+  background-image: url("../img/fondo1.jpg");
   background-blend-mode: darken;
   font-size: 2vw;
   padding: 10vw;
@@ -45,7 +45,7 @@
 }
 
 #e4 {
-	background-image: url("../../img/fondo1.jpg");
+	background-image: url("../img/fondo1.jpg");
 	 background-size: cover;
 	 background-repeat: no-repeat;
 	 font-family: georgia, serif,;
