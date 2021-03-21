@@ -1,0 +1,63 @@
+
+div {
+	font-size: 3vw;
+	text-align: center;
+	width: 20vw;
+	padding: 3vw;
+	margin: 2vw;
+	border: solid green;
+	border-width: 1vh;
+	height: 20vh;
+	float: left;
+}
+div#c2 {
+border-radius: 4ex;
+border-color: yellow;
+}
+
+div#c2:hover {
+transform: scale(1.5);
+border-radius: 4ex;
+border-color: yellow;
+}
+
+div#c3 {
+	border-radius: 10pt;
+}
+
+div#c4 {
+border-radius: 18pt;
+border-color: yellow;
+}
+
+div#c4 {
+border-radius: 50%;
+border-color: blue;
+background-image: url("../img/1.jpg");
+}
+
+div#c6 {
+border-radius: 100%;
+border-color: blue;
+background-image: url("../img/1.jpg");
+}
+
+div#c7:hover {
+transform: scale(1.5);
+font-size: 70px;
+border-bottom-left-radius: 35px;
+border-top-right-radius: 30px;
+border-color: red;
+}
+
+div#c7 {
+border-bottom-left-radius: 35px;
+border-top-right-radius: 30px;
+border-color: orange;
+}
+
+div#c8 { 
+border-bottom-left-radius: 35px;
+border-top-right-radius: 30px;
+border-color: red;
+}

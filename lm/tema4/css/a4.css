@@ -1,0 +1,59 @@
+.d1 {
+	width: 25vw;
+	padding: 3vw;
+	margin: 2vw;
+	height:4vh;
+	border: 4px solid black;
+	background-image: url("../img/flor.jpg");
+}
+
+.d2 {
+	width: 25vw;
+	padding: 3vw;
+	margin: 2vw;
+	height:4vh;
+	border: 4px solid black;
+}
+.d3 {
+	width: 25vw;
+	padding: 3vw;
+	margin: 2vw;
+	height:4vh;
+	border: 4px solid black;
+	background-image: url("../img/flor.jpg");
+}
+
+#fondo {
+	background-image: url("../../img/fondo.jpg");
+}
+
+#fondo1 {
+  background-image: url("../../img/fondo1.jpg");
+  font-size: 2vw;
+  padding: 10vw;
+  margin: 5vw;
+  border: solid;
+}
+
+#fondo2 {
+  background-image: url("../../img/fondo1.jpg");
+  background-blend-mode: darken;
+  font-size: 2vw;
+  padding: 10vw;
+  margin: 5vw;
+  border: solid;
+}
+
+#e4 {
+	background-image: url("../../img/fondo1.jpg");
+	 background-size: cover;
+	 background-repeat: no-repeat;
+	 font-family: georgia, serif,;
+	 text-align:center;
+	 border: solid;
+}
+
+.blender {
+	mix-blend-mode: difference;
+	color: yellow;
+}

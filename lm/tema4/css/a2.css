@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
+
+.fuente {
+  font-family: 'Fredericka the Great', cursive;
+  font-size: 7vw;
+}
+
+
+#header{
+	text-align: center;
+	text-transform: uppercase;
+}
+
+#m  {text-transform: capitalize;
+}
+
+a {
+   color: black;
+   text-decoration:none;
+}
+
+div{ padding: 30px;
+  margin-left: 30px;
+  margin-top: 15px;
+  border-radius: 10px;
+  width: 25em;
+  border: 40px; 
+  background-color: antiquewhite;
+
+}
+
+div > p{
+  text-indent: 20px;
+}
+
+.fuente1 {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.fuente2 {
+  font-family: Comic Sans MS, Comic Sans, cursive;
+}
+
+.fuente3 {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 20px;
+}
+
+.fuente4 {
+  font-family: Impact, fantasy;
+  font-size: 20px;
+}
+
+#p1 {
+  font-size: 1.2em;
+  font-family: Verdana, cursive;
+}
+
+#p2 {
+	font-size: 1.44em;
+	font-family: Verdana, cursive;
+}
+
+#p3::first-line {
+  color: red;
+}
+
+#p4::first-letter {
+  font-size: 40px;
+  color: red;
+}
+
+.h3 {
+  border-top: 3px solid green;
+}
+
+.lista li {
+   list-style-type: none;
+   display: inline;
+   padding-right: 5px;
+}
