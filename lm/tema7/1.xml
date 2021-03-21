@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE personas SYSTEM "nota.dtd">
+<personas>
+<persona>
+    <nombre>Rafa</nombre>  
+    <mayor_de_edad></mayor_de_edad>
+    <ciudad>Córdoba</ciudad>
+    <forma_pago tipo="paypal"/>
+</persona>
+<persona>
+    <nombre>Roberto</nombre>  
+    <mayor_de_edad></mayor_de_edad>
+    <ciudad>Córdoba</ciudad>
+    <forma_pago tipo="paypal"/>
+</persona>
+</personas>

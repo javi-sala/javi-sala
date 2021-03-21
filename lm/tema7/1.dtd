@@ -1,0 +1,14 @@
+<?xml version ="1.0" encoding="UTF-8"?>
+<!DOCTYPE note SYSTEM "nota.dtd"
+<!Element note (to,from,heading)>
+<!Element to (#PCDATA)>
+<!Element from (#PCDATA)>
+<!Element heading (#PCDATA)>
+<!Element body (#PCDATA)>
+]>
+<note>
+  <to>Mercedes</to>
+  <from>Jose</from>
+  <heading>Recordar</heading>
+  <body>No olvide el cumpleaños de Andrés</body>
+</note>
