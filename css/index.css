@@ -20,7 +20,7 @@ a {
   margin-right: 0.625%;
   text-align: center;
   line-height: 3;
-  color: #4CAF50;
+  color: rgb(72, 195, 15);
 }
 
 li:last-child a {
@@ -28,7 +28,7 @@ li:last-child a {
 }
 
 a:link, a:visited, a:focus {
-  background: #4CAF50;
+  background: rgb(72, 195, 15);
 }
 
 a:hover {
