@@ -28,10 +28,6 @@ li:last-child a {
 }
 
 a:link, a:visited, a:focus {
-  background: rgb(72, 195, 15);
-}
-
-a:hover {
   background: black;
 }
 
