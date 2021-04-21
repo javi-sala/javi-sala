@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 	<channel>
+		<title>Canal RSS: Javier Salazar</title>
+       		<link>https://javi-sala.github.io</link>
+        	<descripcion>Ejercicios</descripcion>
 		<item>	
 			<title>Ejercicio enlaces</title>
 			<link>https://javi-sala.github.io/javi-sala/lm/tema3/enlaces.pdf</link>
