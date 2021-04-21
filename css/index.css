@@ -3,11 +3,6 @@ body {
 	background-color: rgb( 252, 194, 97 );
 }
 
-body,html {
-  margin: 0;
-  font-family: sans-serif;
-}
-
 ul {
   padding: 0;
   width: 100%;
